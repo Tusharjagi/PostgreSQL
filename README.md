@@ -1,5 +1,5 @@
 # PostgreSQL
-##Learn PostgreSQL
+## Learn PostgreSQL
 
 Indroduction of SQL
 Single Table SQL
